@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>  SHINRA TENSHI ...</h2>
+<h2>  CHIBAKU TENSHI ...</h2>
 </body>
 </html>
